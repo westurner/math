@@ -1,0 +1,40 @@
+# mathematical analysis requirements
+
+# apt: cython 0.15
+file:///srv/repos/src/cython#egg=cython
+#
+#cython==0.16
+
+# apt:libzmq-dev, yum:zeromq-devel
+file:///srv/repos/src/pyzmq#egg=pyzmq
+file:///srv/repos/src/tornado#egg=tornado
+file:///srv/repos/src/ipython#egg=IPython
+file:///srv/repos/src/pygments#egg=pygments
+
+file:///srv/repos/src/python-dateutil#egg=dateutil
+file:///srv/repos/src/pytz-2011n#egg=pytz
+
+file:///srv/repos/src/path.py#egg=path
+
+
+networkx
+#file:///srv/repos/src/networkx#egg=networkx
+
+# apt: gfortran libblas-dev liblapack-dev
+file:///srv/repos/src/numpy.git#egg=numpy
+
+# apt: libhdf5-serial-dev
+git://srv/repos/src/numexpr@v1.4.2#egg=numexpr
+file:///srv/repos/src/pytables#egg=pytables
+
+file:///srv/repos/src/pyglet#egg=pyglet
+file:///srv/repos/src/sympy#egg=sympy
+
+file:///srv/repos/src/matplotlib#egg=matplotlib
+
+file:///srv/repos/src/scipy#egg=scipy
+
+file:///srv/repos/src/scikit-learn#egg=scikit-learn
+file:///srv/repos/src/statsmodels#egg=statsmodels
+
+file:///srv/repos/src/pandas#egg=pandas

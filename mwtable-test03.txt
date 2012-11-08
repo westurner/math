@@ -1,0 +1,7 @@
+0	1	2	3	4	5	6	7	8	9	10	11	12
+E	F	F♯	G	A♭	A	B♭	B	C	C♯	D	E♭	E
+B	C	C♯	D	E♭	E	F	F♯	G	A♭	A	B♭	B
+G	A♭	A	B♭	B	C	C♯	D	E♭	E	F	F♯	G
+D	E♭	E	F	F♯	G	A♭	A	B♭	B	C	C♯	D
+A	B♭	B	C	C♯	D	E♭	E	F	F♯	G	A♭	A
+E	F	F♯	G	A♭	A	B♭	B	C	C♯	D	E♭	E

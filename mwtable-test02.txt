@@ -1,0 +1,22 @@
+{| class="wikitable" style="width: 500px"
+|-
+! 0 !! 1 !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! 8 !! 9 !! 10 !! 11 !! 12
+|-
+! E
+| F || F{{music|sharp}} || G || A{{music|flat}} || A || B{{music|flat}} || B || C || C{{music|sharp}} || D || E{{music|flat}} || E
+|-
+! B
+| C || C{{music|sharp}} || D || E{{music|flat}} || E || F || F{{music|sharp}} || G || A{{music|flat}} || A || B{{music|flat}} || B
+|-
+! G
+| A{{music|flat}} || A || B{{music|flat}} || B || C || C{{music|sharp}} || D || E{{music|flat}} || E || F || F{{music|sharp}} || G
+|-
+! D
+| E{{music|flat}} || E || F || F{{music|sharp}} || G || A{{music|flat}} || A || B{{music|flat}} || B || C || C{{music|sharp}} || D
+|-
+! A
+| B{{music|flat}} || B || C || C{{music|sharp}} || D || E{{music|flat}} || E || F || F{{music|sharp}} || G || A{{music|flat}} || A
+|-
+! E
+| F || F{{music|sharp}} || G || A{{music|flat}} || A || B{{music|flat}} || B || C || C{{music|sharp}} || D || E{{music|flat}} || E
+|}
